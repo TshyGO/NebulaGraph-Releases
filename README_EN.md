@@ -19,8 +19,10 @@ From raw experimental files to plot-ready datasets, Nebula Lab keeps import, gro
 </div>
 
 <p align="center">
-  <img src="./assets/nebula-hero-academic.png" alt="Nebula Lab workflow overview" width="760" />
+  <img src="./assets/nebula-screenshot.png" alt="Nebula Lab data preparation workspace" width="880" />
 </p>
+
+<p align="center"><sub>Data preparation workspace — import, grouping, and table preprocessing</sub></p>
 
 > **What Nebula Lab is for:** a stable, repeatable workflow for group-level data and multi-plot experimental series, reducing repetitive manual cleanup before handoff to Origin or other plotting tools.
 

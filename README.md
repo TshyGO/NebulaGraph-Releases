@@ -17,8 +17,10 @@
 </div>
 
 <p align="center">
-  <img src="./assets/nebula-hero-academic.png" alt="Nebula Lab workflow overview" width="760" />
+  <img src="./assets/nebula-screenshot.png" alt="Nebula Lab 数据准备工作台界面" width="880" />
 </p>
+
+<p align="center"><sub>数据准备工作台 · 导入、归组与表格预处理</sub></p>
 
 > **Nebula Lab 的定位：** 为组级数据（Group-level Data）和多谱图序列提供稳定、可重复的预处理流程，减少实验数据在进入 Origin 或其他绘图工具前的重复手工整理。
 
